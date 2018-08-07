@@ -1,0 +1,41 @@
+body{
+  margin:55px;
+  padding:0;
+}
+h1{
+  color:green;
+}
+
+h2{
+  color:red;
+}
+
+h3{
+  color:blue;
+}
+
+h4{
+  color:purple;
+}
+
+h5{
+  color:yellow;
+}
+
+h6{
+  color:blue;
+}
+
+body{
+  color:blue;
+  background-color:#E0E3E7;
+  font-size: 18px;
+  font-family:Arial;
+}
+.button{
+  background-color:#0099ff;
+  color:#ffffff;
+  padding:10px 18px;
+  border:none
+}
+.button
